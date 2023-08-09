@@ -16,7 +16,7 @@ The description of each component (click links to view detailed instructions).
 
 | Module              | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
-| [DB-Bot](./diagnosis) | Diagnosing root causes of database anomalies under the [agentverse](https://github.com/OpenBMB/AgentVerse) framework.        |
+| [DB-Bot](./diagnosis) | Diagnosing anomalies under the [agentverse](https://github.com/OpenBMB/AgentVerse) framework.        |
 | [query_rewrite](./optimization/query_rewrite) | LLM for query rewrite.        |
 | [index_tuning](./optimization/index_tuning) | LLM for index tuning.        |
 
