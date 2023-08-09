@@ -1,5 +1,5 @@
 # DB-GPT
-Welcome to the DB-GPT code repository! Our framework is based on LLM and designed to facilitate database tasks. 
+Welcome to the DB-GPT code repository! Our framework is designed to facilitate database tasks with LLMs. 
 
 ## Setup
 
@@ -11,7 +11,7 @@ while read requirement; do pip install $requirement; done < requirements.txt
 
 ## Modules
 
-The description of files included in each module is shown below (click corresponding links to view detailed instructions).
+The description of each component (click links to view detailed instructions).
 
 
 | Module              | Description                                                  |
